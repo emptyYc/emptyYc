@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emptyYc
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA，Python,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
